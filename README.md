@@ -1,1 +1,13 @@
-# SOLARIS-BAKCEND
+# Shop gen
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run node 
+```
